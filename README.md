@@ -1,4 +1,4 @@
-# This is file transfer program using TLS (wolfSSL)
+# This is a file transfer program using TLS (wolfSSL)
 
 
 Server : python ./server/server.py
